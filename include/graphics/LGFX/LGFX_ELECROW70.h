@@ -7,7 +7,7 @@
 #include <lgfx/v1/platforms/esp32s3/Panel_RGB.hpp>
 
 #ifndef FREQ_WRITE
-#define FREQ_WRITE 14000000
+#define FREQ_WRITE 13500000
 #endif
 
 class LGFX_ELECROW70 : public lgfx::LGFX_Device
